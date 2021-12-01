@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/coinapp/static/js/main.7d892334.chunk.js",
+    "main.js.map": "/coinapp/static/js/main.7d892334.chunk.js.map",
+    "runtime-main.js": "/coinapp/static/js/runtime-main.40de07a8.js",
+    "runtime-main.js.map": "/coinapp/static/js/runtime-main.40de07a8.js.map",
+    "static/js/2.c7191f2b.chunk.js": "/coinapp/static/js/2.c7191f2b.chunk.js",
+    "static/js/2.c7191f2b.chunk.js.map": "/coinapp/static/js/2.c7191f2b.chunk.js.map",
+    "index.html": "/coinapp/index.html",
+    "static/js/2.c7191f2b.chunk.js.LICENSE.txt": "/coinapp/static/js/2.c7191f2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40de07a8.js",
+    "static/js/2.c7191f2b.chunk.js",
+    "static/js/main.7d892334.chunk.js"
+  ]
+}
